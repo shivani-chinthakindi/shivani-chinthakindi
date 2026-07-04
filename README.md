@@ -18,8 +18,7 @@
 - Java
 
 ### Data Structures & Algorithms
-- Arrays
-- Strings
+- Basic DSA Concepts
 - Problem Solving (HackerRank)
 - Gradually moving to LeetCode
 
@@ -76,7 +75,7 @@ Upcoming Projects:
 - Complete React
 - Strengthen Java & DSA
 - Solve 250+ DSA Problems
-- Build Frontend Projects
+- Build Projects
 - Prepare for Software Development Internships
 - Maintain an active GitHub profile
 
