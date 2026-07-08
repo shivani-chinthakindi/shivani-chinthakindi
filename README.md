@@ -26,7 +26,7 @@
 - HTML
 - CSS
 - JavaScript
-- React (In Progress)
+- React 
 
 ### Cloud
 - AWS Cloud Practitioner Essentials
